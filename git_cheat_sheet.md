@@ -73,3 +73,36 @@
 
 ### Show difference between commits
 > `git diff <commit hash1> <commit hash2>`
+
+<br>
+
+### Save work without commit
+> `git stash save "<message as a remainder>"`
+
+<br>
+
+
+### Show all stashed work
+> `git stash list`
+
+<br>
+
+### Apply stashed work and keep in history
+> `git stash apply <stash id>`
+
+<br>
+
+### Apply stashed work and delete from history
+> `git stash pop <stash id>`
+
+<br>
+
+### Save untracked files without commit
+> `git stash -u`
+
+<br>
+
+### Remove stash
+> `git stash drop <stash id>`
+##### *WARNING*: It may not be reversible
+<br>
