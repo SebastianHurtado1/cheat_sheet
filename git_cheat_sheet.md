@@ -7,12 +7,7 @@
 ### Reverse to specified commit safely
 > `git reflog`
 
-> `git revert <hash>`
-
-<br>
-
-### History of all commands
-> `git reflog`
+> `git revert <commit hash>`
 
 <br>
 
@@ -38,24 +33,24 @@
 ### Grab commit from one branch to other
 > `git checkout <branch>`
 
-> `git cherrypick <hash>`
+> `git cherrypick <commit hash>`
 
 <br>
 
 ### Reverse to specified commit. Puts changes as STAGED
-> `git reset --soft <hash>`
+> `git reset --soft <commit hash>`
 ##### *WARNING: DO NOT use if others have pulled from your code. Changes commit history*
 
 <br>
 
 ### Reverse to specified commit. Puts changes as UNSTAGED
-> `git reset <hash>`
+> `git reset <commit hash>`
 ##### *WARNING: DO NOT use if others have pulled from your code. Changes commit history*
 
 <br>
 
 ### Reverse to specified commit. Removes changes
-> `git reset --hard <hash>`
+> `git reset --hard <commit hash>`
 ##### *WARNING: DO NOT use if others have pulled from your code. Changes commit history* 
 
 <br>
@@ -64,3 +59,17 @@
 > `git clean -df`
 
 <br>
+
+<center>
+
+# Commands to know
+
+</center>
+
+### History of all commands
+> `git reflog`
+
+<br>
+
+### Show difference between commits
+> `git diff <commit hash1> <commit hash2>`
