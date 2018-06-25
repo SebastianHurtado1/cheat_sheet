@@ -106,3 +106,7 @@
 > `git stash drop <stash id>`
 ##### *WARNING*: It may not be reversible
 <br>
+
+### Add ONLY all of the untracked files/directories to staging area
+> `git add -i` then press `a` for untracked then `*` for all then `q` to quit and leave interactive area
+<br>
