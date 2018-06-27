@@ -25,9 +25,19 @@
 
 </center>
 
-### Lightbulb actions
+### Show suggested actions from lightbulb
 > `option + return`
 
-> `git revert <commit hash>`
+<br>
+
+
+<center>
+
+# Functions
+
+</center>
+
+### View documentation for function
+> `option + space`
 
 <br>
