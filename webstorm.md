@@ -41,3 +41,31 @@
 > `option + space`
 
 <br>
+
+
+<center>
+
+# Ace Jump
+
+</center>
+
+### Jump to link
+> `control + ;`
+
+<br>
+
+### Jump and select link
+> `control + option + ;`
+
+<br>
+
+### Jump to first character of line
+> `control + shiftf + ;`
+
+<br>
+
+
+
+
+
+
