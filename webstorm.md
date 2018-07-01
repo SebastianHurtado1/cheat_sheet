@@ -42,6 +42,11 @@
 
 <br>
 
+### Select all occurences
+> `control + command + g`
+
+<br>
+
 
 <center>
 
