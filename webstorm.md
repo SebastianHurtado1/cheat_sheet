@@ -70,7 +70,10 @@
 <br>
 
 
+### Jump to first character of line or end of line
+> `control + ; + up or left or up or down`
 
+<br>
 
 
 
