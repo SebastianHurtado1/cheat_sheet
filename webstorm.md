@@ -75,5 +75,13 @@
 
 <br>
 
+<center>
 
+# Ace Jump
 
+</center>
+
+### Open up different tools
+> `command + 1-9`
+
+<br>
