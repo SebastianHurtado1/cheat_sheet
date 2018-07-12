@@ -50,16 +50,16 @@
 
 <center>
 
-# Ace Jump
+# Ace Jump / Search
 
 </center>
 
-### Jump to link
+### Jump to selection
 > `control + ;`
 
 <br>
 
-### Jump and select link
+### Jump and select word
 > `control + option + ;`
 
 <br>
@@ -75,9 +75,14 @@
 
 <br>
 
+### Jump to line
+> `command + l`
+
+<br>
+
 <center>
 
-# Ace Jump
+# Tool Windows
 
 </center>
 
