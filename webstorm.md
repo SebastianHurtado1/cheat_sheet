@@ -62,6 +62,11 @@
 
 <br>
 
+### Change function from brackets to parenthesis and vice versa 
+> `option + return`
+
+<br>
+
 ### Select all occurences
 > `control + command + g`
 
