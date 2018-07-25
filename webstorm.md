@@ -4,6 +4,11 @@
 
 </center>
 
+### Search everything
+> `shift + shift`
+
+<br>
+
 ### View Recent Files
 > `command + e`
 
@@ -30,6 +35,21 @@
 
 <br>
 
+<center>
+
+# Refactor
+
+</center>
+
+### Dropdown list of options to refactor
+> `control + t`
+
+<br>
+
+### Rename everywhere it is used
+> `shift + f6`
+
+<br>
 
 <center>
 
