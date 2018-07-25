@@ -115,3 +115,10 @@
 > `command + 1-9`
 
 <br>
+
+<center>
+
+# Links to articles
+
+</center>
+https://blog.jetbrains.com/webstorm/2015/06/10-webstorm-shortcuts-you-need-to-know/
