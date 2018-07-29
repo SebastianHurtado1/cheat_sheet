@@ -71,6 +71,11 @@
 
 <br>
 
+### Remove folder from git but keep it locally
+> `git rm -r --cached path_to_your_folder/`
+
+<br>
+
 ### Show difference between commits
 > `git diff <commit hash1> <commit hash2>`
 
