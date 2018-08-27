@@ -121,5 +121,25 @@
 # Links
 
 </center>
+
 https://blog.jetbrains.com/webstorm/2015/06/10-webstorm-shortcuts-you-need-to-know/
 http://waldobronchart.github.io/ShortcutMapper/#JetBrainsWebStorm
+
+
+<center>
+
+# Sass File Watcher Setup
+
+</center>
+
+### Navigate to settings & go to file watcher
+> `command + , then in search field type in file watcher`
+
+<br>
+
+
+### Under tool to run on changes paste this in `arguments field`
+> `--no-cache --update $FileName$:$ProjectFileDir$/src/styles/css/$FileNameWithoutExtension$.css`
+> *This is assuming css file structure is as follows: styles/css/sameNameAsSassFile.css & Sass file structure is: styles/sass/sameNameAsCssFile.scss*
+
+<br>
